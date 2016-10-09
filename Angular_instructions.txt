@@ -1,0 +1,45 @@
+https://github.com/garethflowers/atom-portable/releases/tag/v1.10.2
+
+download angular see project from the github
+
+then make sure that it has package.json file and bower.json file
+ 
+ 
+ then open package.json file and make sure that it has start take whihc creates an http server
+ 
+ then open git bash inside the project where package.json file resides
+ 
+ then start the application using "npm start"
+
+by default the application runs in localhost:8000 port 
+
+recommended is use gulp or grunt to create war file to deploy into tomcat (During production) 
+
+
+[8:48 AM, 10/9/2016]
+ Ram Maddela: https://github.com/garethflowers/atom-portable/releases/tag/v1.10.2
+
+
+download angular see project from the github
+
+then make sure that it has package.json file and 
+bower.json file
+ 
+ 
+ then open package.json file and make sure that it has start take which creates an http server
+ 
+ 
+then open git bash inside the project where package.json file resides
+ 
+ 
+then start the application using "npm start"
+
+by default the application runs in localhost:8000 port
+ 
+
+recommended is use gulp or grunt to create war file to deploy into tomcat (During production)                        
+
+ A Step-by-Step Tutorial for Your First AngularJS AppIf you haven’t tried AngularJS, you’re missing out. In this tutorial, 
+I’ll build an Angular app from start to finish, highlighting examples of its strengths along the way.www.toptal.com
+[8:50 AM, 10/9/2016] 
+Ram Maddela: https://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
